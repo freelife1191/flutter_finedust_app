@@ -26,3 +26,6 @@ https://www.airvisual.com/air-pollution-data-api
 
 ### Air Api Document
 https://api-docs.airvisual.com/?version=latest
+
+## AirVisual API 테스트
+https://api.airvisual.com/v2/nearest_city?key=
